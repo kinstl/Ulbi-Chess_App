@@ -58,3 +58,40 @@
   margin-left: 50px;
   background-color: lightgray;
 }
+
+.button {
+  background-color: white;
+  border: none;
+  padding: 5px;
+  width: 100%;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #ddd;
+}
+
+.timer {
+  background-color: deepskyblue;
+  padding: 10px;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  color: white;
+}
+
+.timer__count {
+  padding: 10px;
+  border-radius: 7px;
+}
+
+.timer__count.white {
+  background-color: black;
+  color: white;
+}
+
+.timer__count.black {
+  background-color: white;
+  color: black;
+}
