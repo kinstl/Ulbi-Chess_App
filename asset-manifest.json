@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ulbi-Chess_App/static/css/main.fb881069.css",
+    "main.js": "/Ulbi-Chess_App/static/js/main.70df1fb3.js",
+    "index.html": "/Ulbi-Chess_App/index.html",
+    "main.fb881069.css.map": "/Ulbi-Chess_App/static/css/main.fb881069.css.map",
+    "main.70df1fb3.js.map": "/Ulbi-Chess_App/static/js/main.70df1fb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb881069.css",
+    "static/js/main.70df1fb3.js"
+  ]
+}
